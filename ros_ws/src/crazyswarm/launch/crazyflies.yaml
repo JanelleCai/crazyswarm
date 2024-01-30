@@ -1,5 +1,21 @@
 crazyflies:
-- channel: 100
-  id: 1
+- channel: 80
+  id: 09
   initialPosition: [1.5, 1.5, 0.0]
   type: medium
+
+# - channel: 80
+#   id: 02
+#   initialPosition: [1.5, -1.5, 0.0]
+#   type: medium
+
+# - channel: 80
+#   id: 03
+#   initialPosition: [-1.5, 1.5, 0.0]
+#   type: medium
+
+# - channel: 80
+#   id: 04
+#   initialPosition: [-1.5, -1.5, 0.0]
+#   type: medium
+
